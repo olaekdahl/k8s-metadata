@@ -1,0 +1,15 @@
+{
+  "name": "k8s-metadata",
+  "version": "1.0.0",
+  "description": "Simple Kubernetes metadata viewer demo",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ola Ekdahl",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
